@@ -19,11 +19,16 @@ Untuk bagian View, saya menggunakan Blade Template Laravel yang disimpan di fold
 Dengan penerapan Routing, Controller, dan View ini, alur aplikasi menjadi lebih teratur, mulai dari pengguna membuka halaman, Controller mengatur data yang dibutuhkan, sampai View menampilkan hasilnya di browser.
 
 ## Screenshot
+## Halaman Beranda
 ![Halaman Beranda](screenshots/beranda.png)
-
-![Halaman Daftar Buku](screenshots/daftar.png)
-
-![Halaman Detail Buku](screenshots/detail.png)
+## Halaman Daftar Buku
+![Halaman Daftar Buku](screenshots/koleksi-buku.png)
+## Halaman Koleksi Buku
+![Halaman Koleksi Buku](screenshots/koleksi-buku.png)
+## Halaman Detail Buku
+![Halaman Detail Buku](screenshots/detail-buku.png)
+## Halaman Tentang
+![Halaman Tentang](screenshots/tentang.png)
 
 ## Cara Menjalankan Proyek
 1. Clone repository.
